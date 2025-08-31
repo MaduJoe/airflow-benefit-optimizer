@@ -141,7 +141,7 @@ schedule_interval='0 9 * * *',  # 매일 09:00 UTC (한국시간 18:00)
     "benefit_coupon": 0,
     "min_contract_months": 24,
     "conditions": ["new_customer_only"]
-  }
+  }  
 ] 
 ```
 
