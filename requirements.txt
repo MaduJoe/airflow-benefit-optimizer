@@ -1,0 +1,11 @@
+# Apache Airflow 2.9.2 with Python 3.11 constraints
+apache-airflow==2.9.2
+
+# Data processing
+pandas>=1.5.0
+sqlalchemy>=1.4.0
+
+# Optional: Additional connectors and providers
+# apache-airflow-providers-postgres
+# apache-airflow-providers-mysql
+# apache-airflow-providers-slack

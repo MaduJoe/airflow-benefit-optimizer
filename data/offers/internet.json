@@ -1,0 +1,32 @@
+[
+  {
+    "id": "skt_100m_24m",
+    "category": "internet",
+    "name": "SKT 100M 24개월",
+    "base_fee": 24000,
+    "benefit_cash": 180000,
+    "benefit_coupon": 20000,
+    "min_contract_months": 24,
+    "conditions": ["new_customer_only"]
+  },
+  {
+    "id": "kt_1g_36m",
+    "category": "internet",
+    "name": "KT 1G 36개월",
+    "base_fee": 33000,
+    "benefit_cash": 300000,
+    "benefit_coupon": 0,
+    "min_contract_months": 36,
+    "conditions": []
+  },
+  {
+    "id": "lg_500m_12m",
+    "category": "internet",
+    "name": "LG U+ 500M 12개월",
+    "base_fee": 28000,
+    "benefit_cash": 150000,
+    "benefit_coupon": 30000,
+    "min_contract_months": 12,
+    "conditions": ["existing_customer_bonus"]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "coway_aqua",
+    "category": "rental",
+    "name": "코웨이 정수기 A",
+    "base_fee": 20000,
+    "benefit_cash": 100000,
+    "benefit_coupon": 10000,
+    "min_contract_months": 36,
+    "conditions": ["installation_required"]
+  },
+  {
+    "id": "lg_aircon",
+    "category": "rental",
+    "name": "LG 에어컨 렌탈",
+    "base_fee": 45000,
+    "benefit_cash": 180000,
+    "benefit_coupon": 0,
+    "min_contract_months": 48,
+    "conditions": ["summer_promo"]
+  },
+  {
+    "id": "samsung_washer",
+    "category": "rental",
+    "name": "삼성 세탁기 렌탈",
+    "base_fee": 35000,
+    "benefit_cash": 120000,
+    "benefit_coupon": 30000,
+    "min_contract_months": 36,
+    "conditions": []
+  }
+]

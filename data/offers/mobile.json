@@ -1,0 +1,32 @@
+[
+  {
+    "id": "uplus_5g_basic",
+    "category": "mobile",
+    "name": "U+ 5G Basic",
+    "base_fee": 45000,
+    "benefit_cash": 150000,
+    "benefit_coupon": 0,
+    "min_contract_months": 24,
+    "conditions": ["5g_coverage_required"]
+  },
+  {
+    "id": "skt_5g_premium",
+    "category": "mobile",
+    "name": "SKT 5G Premium",
+    "base_fee": 65000,
+    "benefit_cash": 200000,
+    "benefit_coupon": 50000,
+    "min_contract_months": 24,
+    "conditions": ["new_customer_only"]
+  },
+  {
+    "id": "kt_lte_standard",
+    "category": "mobile",
+    "name": "KT LTE Standard",
+    "base_fee": 35000,
+    "benefit_cash": 100000,
+    "benefit_coupon": 20000,
+    "min_contract_months": 12,
+    "conditions": []
+  }
+]

@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Airflow
+airflow.db
+airflow.cfg
+logs/
+*.pid
+*.log
+
+# SQLite databases
+*.db
+*.sqlite
+
+# Data files (optional - 샘플 데이터는 포함하고 실행 결과는 제외)
+data/ajd.db
+data/export/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp

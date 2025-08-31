@@ -1,0 +1,23 @@
+[
+  {
+    "user_id": "u001",
+    "category": "internet",
+    "vendor": "KT",
+    "end_date": "2025-09-30",
+    "monthly_fee": 33000
+  },
+  {
+    "user_id": "u001",
+    "category": "mobile",
+    "vendor": "SKT",
+    "end_date": "2025-12-15",
+    "monthly_fee": 45000
+  },
+  {
+    "user_id": "u002",
+    "category": "rental",
+    "vendor": "Coway",
+    "end_date": "2025-03-20",
+    "monthly_fee": 25000
+  }
+]
